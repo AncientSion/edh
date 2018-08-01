@@ -1,0 +1,62 @@
+body {
+	background-color: black;
+	color: white;
+	font: arial;
+}
+
+.divWrapper {
+	padding: 10px
+}
+
+.divWrapper div{
+	display: inline;
+}
+
+.divWrapper div:nth-Child(1){
+	text-align: center;
+	width: 50%;
+	margin: auto;
+	display: inline-block; 
+}
+.divWrapper div:nth-Child(2){
+	text-align: center;
+	margin: auto;
+}
+
+.commentWrapper {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 100%;
+}
+
+.commentWrapper div {
+	text-align: center;
+	width: 80%;
+	margin: auto;
+	display: block;
+}
+
+textarea {
+	width: 80%;
+	height: 100px;
+}
+
+input {
+	width: 40%;
+	margin: auto;
+	height: 20px;
+	text-align: center;
+}
+
+input[type=submit]{
+	margin: auto;
+	width: 60%;
+	height: 30px;
+	display: inherit;
+}
+
+#createDiv, #searchDiv {
+	margin: auto;
+	border: 1px solid white;
+	width: 500px
+}
