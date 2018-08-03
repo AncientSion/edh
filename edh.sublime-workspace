@@ -1,0 +1,2070 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"positio",
+				"doPositionChat"
+			],
+			[
+				"iint",
+				"integrityAmount"
+			],
+			[
+				"purh",
+				"purchaseId"
+			],
+			[
+				"pur",
+				"purchaseId"
+			],
+			[
+				"setPatrol",
+				"setPatrolLayout"
+			],
+			[
+				"ap",
+				"attempts"
+			],
+			[
+				"position",
+				"doPositionLog"
+			],
+			[
+				"toggle",
+				"toggleDrawMovePaths"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"addE",
+				"addShieldLogEntry"
+			],
+			[
+				"popu",
+				"popupEntryConfirm"
+			],
+			[
+				"getF",
+				"getFocusSpending"
+			],
+			[
+				"createG",
+				"createGameMenu"
+			],
+			[
+				"ships",
+				"shipsBought"
+			],
+			[
+				"setUnit",
+				"setUnitCenterFocus"
+			],
+			[
+				"Shoo",
+				"shooterAngle"
+			],
+			[
+				"shoot",
+				"shooterAngle"
+			],
+			[
+				"getDraw",
+				"getDrawPos"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"launcher",
+				"Launcher"
+			],
+			[
+				"reif",
+				"reinforce"
+			],
+			[
+				"DBMana",
+				"DBManager"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"pri",
+				"primary"
+			],
+			[
+				"extra",
+				"extraPulses"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"prt",
+				"prototype"
+			],
+			[
+				"lightP",
+				"LightPlasmaPulse"
+			],
+			[
+				"text",
+				"text-anchor"
+			],
+			[
+				"fighter",
+				"fighterDiv"
+			],
+			[
+				"Fe",
+				"FETCH_ASSOC"
+			],
+			[
+				"Fet",
+				"fetchAll"
+			],
+			[
+				"total",
+				"totalDmg"
+			],
+			[
+				"structur",
+				"structures"
+			],
+			[
+				"getSystem",
+				"getSystemByName"
+			],
+			[
+				"childen",
+				"children"
+			],
+			[
+				"getT",
+				"getTotalCrewCost"
+			],
+			[
+				"getCrew",
+				"getCrewAddCost"
+			],
+			[
+				"shield",
+				"shieldDmg"
+			],
+			[
+				"ext",
+				"extraPulses"
+			],
+			[
+				"pla",
+				"placeholder"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"hasUn",
+				"getHasUnusedPower"
+			],
+			[
+				"hasU",
+				"hasUnusedPower"
+			],
+			[
+				"drawTur",
+				"drawTurnShorterningUI"
+			],
+			[
+				"getImp",
+				"getImpulseChangeCost"
+			],
+			[
+				"jump",
+				"jumpOut"
+			],
+			[
+				"salvo",
+				"salvoCtx"
+			],
+			[
+				"salo",
+				"salvoCtx"
+			],
+			[
+				"off",
+				"offsetY"
+			],
+			[
+				"set",
+				"setupDogfights"
+			],
+			[
+				"draw",
+				"drawShipPreview"
+			],
+			[
+				"shipC",
+				"shipCtx"
+			],
+			[
+				"previe",
+				"previewCanvas"
+			],
+			[
+				"crea",
+				"createElement"
+			],
+			[
+				"han",
+				"hangars"
+			],
+			[
+				"hangar",
+				"hangarLoadoutDiv"
+			],
+			[
+				"intercept",
+				"interceptAnimated"
+			],
+			[
+				"move",
+				"movementResolved"
+			],
+			[
+				"getDama",
+				"getDamageMod"
+			],
+			[
+				"resolveFi",
+				"resolveFireOrders"
+			],
+			[
+				"mov",
+				"movementResolved"
+			],
+			[
+				"shi",
+				"shipId"
+			],
+			[
+				"create",
+				"createShortInfo"
+			],
+			[
+				"getDa",
+				"getDamageMod"
+			],
+			[
+				"append",
+				"appendChild"
+			],
+			[
+				"struct",
+				"structDmg"
+			],
+			[
+				"int",
+				"integrity"
+			],
+			[
+				"posI",
+				"posIsOnArc"
+			],
+			[
+				"mit",
+				"mitigation"
+			],
+			[
+				"prima",
+				"primaryContainer"
+			],
+			[
+				"DBmana",
+				"DBManager"
+			],
+			[
+				"combat",
+				"combatLogWrapper"
+			],
+			[
+				"reso",
+				"fireResolved"
+			],
+			[
+				"reinf",
+				"reinforcements"
+			],
+			[
+				"doAdvanc",
+				"doAdvanceGameState"
+			],
+			[
+				"getga",
+				"getGameData"
+			],
+			[
+				"rein",
+				"reinforcements"
+			],
+			[
+				"re",
+				"reinforceFaction"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"mt_",
+				"mt_rand"
+			],
+			[
+				"getTurn",
+				"getTurnCost"
+			],
+			[
+				"hight",
+				"highlightAllSelectedWeapons"
+			],
+			[
+				"getRe",
+				"getRemainingEP"
+			],
+			[
+				"atan",
+				"atan2"
+			],
+			[
+				"getBa",
+				"getBaseOffsetPos"
+			],
+			[
+				"spee",
+				"speedChange"
+			],
+			[
+				"JS",
+				"json_decode"
+			],
+			[
+				"JSON",
+				"json_encode"
+			],
+			[
+				"drawSh",
+				"drawShipForPreview"
+			],
+			[
+				"elint",
+				"elintResult"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"addTa",
+				"addTableRedBackground"
+			],
+			[
+				"currentS",
+				"currentSubTick"
+			],
+			[
+				"current",
+				"currentSubStick"
+			],
+			[
+				"var",
+				"var_export"
+			],
+			[
+				"Fetch",
+				"FETCH_ASSOC"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"erro",
+				"errorCode"
+			],
+			[
+				"fetch",
+				"FETCH_ASSOC"
+			],
+			[
+				"isE",
+				"isEqual"
+			],
+			[
+				"getL",
+				"getLastInsertId"
+			],
+			[
+				"p",
+				"possibleLanes"
+			],
+			[
+				"gate",
+				"gateSelected"
+			],
+			[
+				"getH",
+				"getHexById"
+			],
+			[
+				"act",
+				"activeHover"
+			],
+			[
+				"getElement",
+				"getElementsByTagName"
+			],
+			[
+				"cont",
+				"contextmenu"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"update",
+				"updatePlayerStatus"
+			],
+			[
+				"createF",
+				"createFleetAndTransfer"
+			],
+			[
+				"selected",
+				"selectedHex"
+			],
+			[
+				"createPlanetN",
+				"createPlanetNotes1"
+			],
+			[
+				"createEne",
+				"createPlanetEnviroment"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"JSO",
+				"json_encode"
+			],
+			[
+				"class",
+				"class_exists"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"mysqli",
+				"mysqli_fetch"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"s",
+				"success"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"succ",
+				"successSubmit"
+			],
+			[
+				"request",
+				"requestHexContentTEST"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 761,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 2614,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "server/manager.php",
+			"settings":
+			{
+				"buffer_size": 65,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "server/debug.php",
+			"settings":
+			{
+				"buffer_size": 1110,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "script.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "server/dbManager.php",
+			"settings":
+			{
+				"buffer_size": 4695,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "server/edh.log",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "autoload.php",
+			"settings":
+			{
+				"buffer_size": 564,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/fire/global.php",
+			"settings":
+			{
+				"buffer_size": 476,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"brack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 426.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/edh/server/fire.log",
+		"/C/xampp/htdocs/fire/server/ships/tethys.php",
+		"/C/xampp/htdocs/fire/server/ships/whitestar.php",
+		"/C/xampp/htdocs/fire/server/ships/rolentha.php",
+		"/C/xampp/htdocs/fire/server/ships/tinashi.php",
+		"/C/xampp/htdocs/fire/server/ships/tech.php",
+		"/C/xampp/htdocs/fire/server/ships/sharlin.php",
+		"/C/xampp/htdocs/fire/postGameData.php",
+		"/C/xampp/htdocs/fire/server/systems/system.php",
+		"/C/xampp/htdocs/fire/server/systems/weapons/laser.php",
+		"/C/xampp/htdocs/fire/server/systems/weapons/matter.php",
+		"/C/xampp/htdocs/fire/server/squadron.php",
+		"/C/xampp/htdocs/fire/server/systems/weapon.php",
+		"/C/xampp/htdocs/fire/server/systems/weapons/area.php",
+		"/C/xampp/htdocs/fire/server/systems/weapons/ammo.php",
+		"/C/xampp/htdocs/fire/server/systems/weapons/launcher.php",
+		"/C/xampp/htdocs/fire/shipclasses.js",
+		"/C/xampp/htdocs/fire/systems.js",
+		"/C/xampp/htdocs/fire/server/ship.php",
+		"/C/xampp/htdocs/fire/server/ships/altarian.php",
+		"/C/xampp/htdocs/fire/server/systems/nonweapon.php",
+		"/C/xampp/htdocs/fire/endGame.php",
+		"/C/xampp/htdocs/fire/server/ships/darkner.php",
+		"/C/xampp/htdocs/fire/server/ships/shokos.php",
+		"/C/xampp/htdocs/fire/server/ships/centurion.php",
+		"/C/xampp/htdocs/fire/server/ships/thentus.php",
+		"/C/xampp/htdocs/fire/server/ships/shokov.php",
+		"/C/xampp/htdocs/fire/server/ships/varnic.php",
+		"/C/xampp/htdocs/fire/server/ships/trakk.php",
+		"/C/xampp/htdocs/fire/server/ships/rongoth.php",
+		"/C/xampp/htdocs/fire/squaddie.js",
+		"/C/xampp/htdocs/fire/squadron.js",
+		"/C/xampp/htdocs/fire/server/mixed.php",
+		"/C/xampp/htdocs/fire/index.php",
+		"/C/xampp/htdocs/fire/getGameData.php",
+		"/C/xampp/htdocs/fire/cam.js",
+		"/C/xampp/htdocs/fire/server/fire.log",
+		"/C/xampp/htdocs/fire/global.php",
+		"/C/xampp/htdocs/fire/server/math.php",
+		"/C/xampp/htdocs/fire/server/debug.php",
+		"/C/xampp/htdocs/fire/server/ships/dagkar.php",
+		"/C/xampp/htdocs/fire/server/salvo.php",
+		"/C/xampp/htdocs/fire/server/dbManager.php",
+		"/C/xampp/htdocs/fire/server/classes.php",
+		"/C/xampp/htdocs/fire/server/systems/weapons/dual.php",
+		"/C/xampp/htdocs/fire/server/ships/kutai.php",
+		"/C/xampp/htdocs/fire/autoload.php",
+		"/C/xampp/htdocs/fire/classes.js",
+		"/C/xampp/htdocs/fire/server/ships/haven.php",
+		"/C/xampp/htdocs/fire/server/ships/vorchora.php",
+		"/C/xampp/htdocs/fire/server/ships/vorchan.php",
+		"/C/xampp/htdocs/fire/server/ships/gquan.php",
+		"/C/xampp/htdocs/fire/server/ships/demos.php",
+		"/C/xampp/htdocs/fire/server/systems/weapons/particle.php",
+		"/C/xampp/htdocs/fire/server/systems/weapons/linked.php",
+		"/C/xampp/htdocs/fire/server/fighter.php",
+		"/C/xampp/htdocs/fire/server/flight.php",
+		"/C/xampp/htdocs/fire/script.js",
+		"/C/xampp/htdocs/fire/mixed.js",
+		"/C/xampp/htdocs/fire/game.js",
+		"/C/xampp/htdocs/fire/shared.js",
+		"/C/xampp/htdocs/fire/game.php",
+		"/C/xampp/htdocs/fire/server/ships/mograth.php",
+		"/C/xampp/htdocs/fire/server/ships/torotha.php",
+		"/C/xampp/htdocs/fire/server/ships/tigara.php",
+		"/C/xampp/htdocs/fire/server/dmgcalc.php",
+		"/C/xampp/htdocs/fire/server/ships/katoc.php",
+		"/C/xampp/htdocs/fire/server/ships/gsten.php",
+		"/C/xampp/htdocs/fire/gameSetup.php",
+		"/C/xampp/htdocs/fire/server/ships/octurion.php",
+		"/C/xampp/htdocs/fire/server/systems/weapons/em.php",
+		"/C/xampp/htdocs/fire/mathLib.js",
+		"/C/xampp/htdocs/fire/server/squaddie.php",
+		"/C/xampp/htdocs/fire/server/systems/single.php",
+		"/C/xampp/htdocs/fire/server/systems/structure.php",
+		"/C/xampp/htdocs/fire/server/manager.php",
+		"/C/xampp/htdocs/fire/server/systems/weapons/pulse.php",
+		"/C/xampp/htdocs/fire/salvo.js",
+		"/C/xampp/htdocs/fire/flights.js",
+		"/C/xampp/htdocs/fire/server/ships/primus.php",
+		"/C/xampp/htdocs/fire/server/ships/hyperion.php",
+		"/C/xampp/htdocs/fire/server/ships/omega.php",
+		"/C/xampp/htdocs/fire/server/systems/weapons/plasma.php",
+		"/C/xampp/htdocs/fire/server/ships/saggitarius.php",
+		"/C/xampp/htdocs/fire/server/ships/artemis.php",
+		"/C/xampp/htdocs/fire/server/ships/battlecrab.php",
+		"/C/xampp/htdocs/fire/server/ships/avenger.php",
+		"/C/xampp/htdocs/fire/server/ships/olympus.php",
+		"/C/xampp/htdocs/fire/server/squadbuilder.php",
+		"/C/xampp/htdocs/fire/lobby.php",
+		"/C/xampp/htdocs/fire/server/ships/hermes.php",
+		"/C/xampp/htdocs/fire/graphics.js",
+		"/C/xampp/htdocs/fire/server/ships/crius.php",
+		"/C/xampp/htdocs/fire/ajax.js",
+		"/C/xampp/htdocs/fire/index.css",
+		"/C/xampp/htdocs/fire/style.css",
+		"/C/xampp/htdocs/fire/server/ships/vorchar.php",
+		"/C/xampp/htdocs/fire/server/ships/rongotha.php",
+		"/C/xampp/htdocs/fire/fire.log",
+		"/C/xampp/htdocs/fire/serverfire.log",
+		"/C/xampp/htdocs/fire/log.txt",
+		"/C/xampp/htdocs/fire/createGame.php",
+		"/C/xampp/htdocs/fire/server/builder.php",
+		"/C/xampp/htdocs/fire/test.php",
+		"/C/xampp/htdocs/fire/imageloader.js",
+		"/C/xampp/htdocs/fire/logout.php",
+		"/C/xampp/htdocs/fire/debug.php",
+		"/C/xampp/htdocs/fire/server/systems/weapons/ballistic.php",
+		"/C/xampp/htdocs/fire/include.php",
+		"/C/xampp/htdocs/fire/dbManager.php",
+		"/C/xampp/htdocs/fire/starships.php",
+		"/C/xampp/htdocs/fire/jquery-2.1.1.min.js",
+		"/C/xampp/htdocs/fire/sublime/fire.sublime-workspace",
+		"/C/xampp/htdocs/fire/server/baseship.php",
+		"/C/xampp/htdocs/fire/server/systems/systems.php",
+		"/C/xampp/htdocs/fire/gameManager.php",
+		"/C/xampp/htdocs/fire/server/systems/laser.php",
+		"/C/xampp/htdocs/fire/server/systems/particle.php",
+		"/C/xampp/htdocs/fire/jquery-ui.js",
+		"/D/SecureWAMP_Portable/htdocs/fire/getGameData.php",
+		"/D/SecureWAMP_Portable/htdocs/fire/gameSetup.php",
+		"/D/SecureWAMP_Portable/htdocs/fire/shipclasses.js",
+		"/D/SecureWAMP_Portable/htdocs/fire/mathLib.js",
+		"/D/SecureWAMP_Portable/htdocs/fire/log.txt",
+		"/D/SecureWAMP_Portable/htdocs/fire/dbManager.php",
+		"/D/SecureWAMP_Portable/htdocs/fire/gameManager.php",
+		"/D/SecureWAMP_Portable/htdocs/fire/postGameData.php",
+		"/D/SecureWAMP_Portable/htdocs/fire/script.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 115.0,
+		"where_history":
+		[
+			"",
+			"*.js",
+			"",
+			"*.php",
+			"*.js",
+			"*,js",
+			"",
+			"*.php",
+			"",
+			"*.php!",
+			"*.php",
+			"",
+			"*.php",
+			"",
+			"*.js",
+			"",
+			"*.js",
+			"",
+			"*.php",
+			"*.hp",
+			"",
+			"*.php",
+			"",
+			"*.js",
+			"*.php",
+			"",
+			"(",
+			"",
+			"*.js",
+			"",
+			"*.php",
+			"",
+			"*.js",
+			"Ü.js",
+			"",
+			"*.php",
+			"Ü.php",
+			"",
+			"game.js",
+			"",
+			"gameSetup.php",
+			"",
+			"*.php",
+			"",
+			"*.php",
+			"",
+			"*.php",
+			"",
+			"*.php",
+			"",
+			"*.js",
+			"*.php",
+			"",
+			"*.js",
+			"",
+			"*.js",
+			"",
+			"*.php",
+			"",
+			"*.php",
+			"",
+			"*.js",
+			"",
+			"manager.php",
+			"*.php",
+			"",
+			"Sharlin.php",
+			"",
+			"*.js",
+			"*.php",
+			"",
+			"*.php",
+			"",
+			"*.js",
+			"",
+			"*.php",
+			"",
+			"*.php",
+			"",
+			"*.js",
+			"",
+			"*.php",
+			"",
+			"gameSetup.php",
+			"",
+			"*.php",
+			"*.js",
+			"*.php",
+			"",
+			"system.php",
+			"*.php",
+			"",
+			"*.php",
+			"*.js",
+			"",
+			"*.php",
+			"",
+			"*.js",
+			"",
+			"*.php",
+			"*.js",
+			"",
+			"game.php",
+			"",
+			"*.php",
+			"*.js",
+			"",
+			"*.js",
+			"",
+			"*.jsRow",
+			"*.js",
+			"",
+			"*.js",
+			"",
+			"*.js",
+			"",
+			"*.js",
+			"",
+			"*.js",
+			"",
+			"*.php",
+			"",
+			"*.js",
+			"",
+			"systems.js",
+			"",
+			"*.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"DBManager",
+			"fromangle",
+			"drawV",
+			"do",
+			"getarmourstring",
+			"doboos",
+			"uctures)-1]->effiency = $this->traverse",
+			"uctures)-1]->effiency = $this->traverse + 3",
+			"purchase",
+			"icon",
+			"game.ships[0].",
+			"drawShipPreview",
+			"game.ships[0]",
+			"doCloneSquaddie: function(data)",
+			"updateUnitStatus",
+			";\n",
+			"deployNow",
+			"id=\"deployTable\"",
+			"type ",
+			"input",
+			"placeholder",
+			"(\"height\", 1",
+			"height\", 10",
+			"upperGUI",
+			"uppergui",
+			", max:",
+			", max",
+			"vectorDiv",
+			"distm",
+			"distl",
+			"Angle",
+			"impulseCost",
+			"impulseCost\"",
+			"impulseCost",
+			"flip c",
+			"600",
+			"doPositionChat",
+			"chatWrapper",
+			"positionChat",
+			"positionchat",
+			"doPositionLog",
+			"positionChat",
+			"initOptionsUI",
+			"if (window.g",
+			"optionsWrapper",
+			"th-child",
+			"-child",
+			"nth",
+			"chatWrapper",
+			"sendWrapper",
+			"chatWrapper",
+			".chatBox",
+			"chatWrap",
+			"chatWrapper",
+			"ReinforceFaction",
+			"reinforceFaction",
+			"#reinforcef",
+			"reinforceFaction",
+			"reinforce",
+			"chatBox",
+			"update units ",
+			"UPDATE units \n\t\t\t\t",
+			"handleResolvedFireData",
+			"testMorale",
+			"updateUnitStats",
+			"updateunit",
+			"endstate",
+			"negative",
+			"attachSysMods",
+			"dropping",
+			"due to s",
+			"getMoraleDamages",
+			"rolls a",
+			"kills",
+			"volley",
+			"emdmg",
+			"for more than",
+			"turnAngle = ",
+			"turnStep",
+			"turnangle",
+			"turnAngle = ",
+			"mapSelect",
+			"variant",
+			"mediumpul",
+			"targetDataA",
+			"armour",
+			"integrityAmount",
+			"integrityAmount ",
+			"nth",
+			"$(\"#aimDiv\")",
+			"aimdiv",
+			"$(\"#comb",
+			"function UI\n",
+			"ui.combatlogwrapper",
+			"ui.combatlogwrapper =",
+			"ui.",
+			"ui",
+			"targetData2",
+			"targetData1",
+			"aimdiv",
+			"thead",
+			"tHead",
+			"weaponAimTableWrapper",
+			"destroyed.png",
+			"targetinfo",
+			"\"# \"",
+			"weaponaim",
+			"removeunit",
+			"doconfirmunitp",
+			"setasco",
+			"doconfirmunitpur",
+			"game.refit = ",
+			"refit ",
+			"getrowhe",
+			"focusGain",
+			"focusgain",
+			"canturnfreely",
+			"animflight = 1",
+			"this.mission = ",
+			"this.mission",
+			"mission ",
+			" (t.id == s.oldMission.targetid){",
+			"flightbaseImpulse",
+			"id < 0",
+			"setimp",
+			"issueMission",
+			"issueMiss",
+			"issuemiss"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"uctures)-1]->effiency = $this->traverse-1",
+			"uctures)-1]->effiency = $this->traverse",
+			"squadron.",
+			"squadron",
+			"updateUnitState",
+			"doPositionChat",
+			"updateUnitStatus",
+			"getNewRelDmgPct",
+			"ui.aimDiv",
+			"targetDataB",
+			"targetDataA",
+			"aimDiv",
+			"$this->structures[$i]->damages[$j]",
+			"ublic function setMorale($turn){",
+			"doTestCrits",
+			"doTestCrit",
+			"doTestMorale",
+			"[$i]",
+			"requestSubUnit",
+			"requestBaseUnitData",
+			"unit.",
+			"\tfunction __construct($id, $parentId){\n\t\tparent::__construct($id, $parentId);\n\t}",
+			"$(game.getUnit(aUnit).getSystem($",
+			"singleDiv",
+			"assembleDeployStates",
+			"moveDone",
+			"moveResolved",
+			"nt(e.clientX, e.clientY)",
+			"toggleDrawMovePaths",
+			"drawMovePaths",
+			"initialPhaseResolutionDone",
+			"addLogShieldEntry",
+			".getCritMod = function(type){",
+			"getCritMod",
+			"[i].",
+			"this.crits[i]",
+			"ui.",
+			"setUnitSelector",
+			"ui.deployOverlay.hide();",
+			"ui.deployOverlay",
+			"enableUnitDeploy",
+			"\"#reinforceBody\")",
+			"reinforceBody",
+			"\"reinforceBody\"",
+			"missionEntry",
+			"showSysDiv",
+			"hideSysDiv",
+			"hideInfoDiv",
+			"showInfoDiv",
+			"setCrewUpgrades",
+			"updateSysDiv",
+			"hasOptions",
+			"updateFocusState",
+			"game.setRemPV()",
+			"setAsCommand",
+			"setPostMoveCC",
+			"[i]",
+			"(i)",
+			"[i]",
+			"getUnitPos",
+			"handleBaseMovePhase",
+			"handleFocusMovePhase",
+			"startFocusMovePhase",
+			"setLastPosCC",
+			"getEMDmg",
+			"setFocus",
+			"unsetFocus",
+			"unsetAsFocus",
+			"assignFocus",
+			"curImp",
+			"remImp",
+			"curImp",
+			"remDelay",
+			"$data",
+			"\tfunction __construct($data){\n\t\tparent::__construct($data);\n\t}",
+			"unitSelector",
+			"initialDone",
+			".setSubUnitStatus",
+			"setSubUnitStatus",
+			"\n\tpublic static $prio = 0;\n\tpublic $minDmg",
+			"LightEMNeedler",
+			"calc",
+			"MolecularSlicer",
+			"getUnitsForFaction",
+			"j",
+			"i",
+			"j",
+			"i",
+			"Object",
+			"j",
+			"i",
+			"getFlashBaseDamage",
+			"getFlashTargets",
+			"Rongoth",
+			"this.",
+			"data",
+			"$units",
+			"initReinforceTable",
+			"initIncomingTable",
+			"Deploy",
+			"div",
+			"getPowerUsage",
+			"div",
+			"using criticals\");",
+			"getAimDetailsUnit",
+			"getAimDetailsLoc",
+			"getAimDetailsTarget",
+			"Particle",
+			"$this->armour = floor($rem * $this->armourMod);",
+			"\t\t$this->armour = floor($rem * $this->armourMod;",
+			"public function setArmourData($rem){",
+			"setRemDelay",
+			"setRemImpulse",
+			"getRemNegation",
+			"getRemIntegrity",
+			"setArmourData",
+			"initSquaddie ",
+			"emDmg",
+			"Shock",
+			"applyDBDamage",
+			"LightEMPulse",
+			"addAllSystems",
+			", 28, array(",
+			"50, array(",
+			"setUnitsDestroyed",
+			"setUnitDestroyed",
+			"resolveMovement",
+			"DmgCalc::doDmg($fire,"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 761,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1069,
+								1069
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 576.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "server/manager.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 65,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "server/debug.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								136,
+								136
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "server/dbManager.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2809,
+								2809
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 912.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "server/edh.log",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "autoload.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								526,
+								526
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/xampp/htdocs/fire/global.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 476,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								473,
+								6
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.509248554913,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "edh.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"log",
+				"C:\\xampp\\htdocs\\fire\\server\\fire.log"
+			],
+			[
+				"lobb",
+				"C:\\xampp\\htdocs\\fire\\lobby.php"
+			],
+			[
+				"man",
+				"C:\\xampp\\htdocs\\fire\\server\\manager.php"
+			],
+			[
+				"db",
+				"C:\\xampp\\htdocs\\fire\\server\\dbManager.php"
+			],
+			[
+				"cr",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\rolentha.php"
+			],
+			[
+				"scr",
+				"C:\\xampp\\htdocs\\fire\\script.js"
+			],
+			[
+				"sh",
+				"C:\\xampp\\htdocs\\fire\\shipclasses.js"
+			],
+			[
+				"ome",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\omega.php"
+			],
+			[
+				"lob",
+				"C:\\xampp\\htdocs\\fire\\lobby.php"
+			],
+			[
+				"cla",
+				"C:\\xampp\\htdocs\\fire\\classes.js"
+			],
+			[
+				"clas",
+				"C:\\xampp\\htdocs\\fire\\server\\classes.php"
+			],
+			[
+				"str",
+				"C:\\xampp\\htdocs\\fire\\server\\systems\\structure.php"
+			],
+			[
+				"hyp",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\hyperion.php"
+			],
+			[
+				"sty",
+				"C:\\xampp\\htdocs\\fire\\style.css"
+			],
+			[
+				"gamesetup",
+				"C:\\xampp\\htdocs\\fire\\gameSetup.php"
+			],
+			[
+				"games",
+				"C:\\xampp\\htdocs\\fire\\gameSetup.php"
+			],
+			[
+				"game.js",
+				"C:\\xampp\\htdocs\\fire\\game.js"
+			],
+			[
+				"game",
+				"C:\\xampp\\htdocs\\fire\\game.php"
+			],
+			[
+				"gae",
+				"C:\\xampp\\htdocs\\fire\\game.php"
+			],
+			[
+				"gam",
+				"C:\\xampp\\htdocs\\fire\\game.js"
+			],
+			[
+				"ind",
+				"C:\\xampp\\htdocs\\fire\\index.css"
+			],
+			[
+				"index",
+				"C:\\xampp\\htdocs\\fire\\index.php"
+			],
+			[
+				"st",
+				"C:\\xampp\\htdocs\\fire\\style.css"
+			],
+			[
+				"grap",
+				"C:\\xampp\\htdocs\\fire\\graphics.js"
+			],
+			[
+				"sj",
+				"C:\\xampp\\htdocs\\fire\\shipclasses.js"
+			],
+			[
+				"sha",
+				"C:\\xampp\\htdocs\\fire\\shared.js"
+			],
+			[
+				"styl",
+				"C:\\xampp\\htdocs\\fire\\style.css"
+			],
+			[
+				"aja",
+				"C:\\xampp\\htdocs\\fire\\ajax.js"
+			],
+			[
+				"gamep",
+				"C:\\xampp\\htdocs\\fire\\game.php"
+			],
+			[
+				"game.p",
+				"C:\\xampp\\htdocs\\fire\\game.php"
+			],
+			[
+				"ty",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\tethys.php"
+			],
+			[
+				"sys",
+				"C:\\xampp\\htdocs\\fire\\systems.js"
+			],
+			[
+				"par",
+				"C:\\xampp\\htdocs\\fire\\server\\systems\\weapons\\particle.php"
+			],
+			[
+				"puls",
+				"C:\\xampp\\htdocs\\fire\\server\\systems\\weapons\\pulse.php"
+			],
+			[
+				"crui",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\crius.php"
+			],
+			[
+				"pri",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\primus.php"
+			],
+			[
+				"are",
+				"C:\\xampp\\htdocs\\fire\\server\\systems\\weapons\\area.php"
+			],
+			[
+				"amm",
+				"C:\\xampp\\htdocs\\fire\\server\\systems\\weapons\\ammo.php"
+			],
+			[
+				"sq",
+				"C:\\xampp\\htdocs\\fire\\server\\squadron.php"
+			],
+			[
+				"mix",
+				"C:\\xampp\\htdocs\\fire\\server\\mixed.php"
+			],
+			[
+				"ssq",
+				"C:\\xampp\\htdocs\\fire\\server\\squadron.php"
+			],
+			[
+				"sharl",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\sharlin.php"
+			],
+			[
+				"gst",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\gsten.php"
+			],
+			[
+				"kat",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\katoc.php"
+			],
+			[
+				"oly",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\olympus.php"
+			],
+			[
+				"plas",
+				"C:\\xampp\\htdocs\\fire\\server\\systems\\weapons\\plasma.php"
+			],
+			[
+				"mog",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\mograth.php"
+			],
+			[
+				"shar",
+				"C:\\xampp\\htdocs\\fire\\shared.js"
+			],
+			[
+				"cam",
+				"C:\\xampp\\htdocs\\fire\\cam.js"
+			],
+			[
+				"ga",
+				"C:\\xampp\\htdocs\\fire\\game.php"
+			],
+			[
+				"style",
+				"C:\\xampp\\htdocs\\fire\\style.css"
+			],
+			[
+				"gamese",
+				"C:\\xampp\\htdocs\\fire\\gameSetup.php"
+			],
+			[
+				"fl",
+				"C:\\xampp\\htdocs\\fire\\flights.js"
+			],
+			[
+				"gam e",
+				"C:\\xampp\\htdocs\\fire\\game.js"
+			],
+			[
+				"sing",
+				"C:\\xampp\\htdocs\\fire\\server\\systems\\single.php"
+			],
+			[
+				"sin",
+				"C:\\xampp\\htdocs\\fire\\server\\systems\\single.php"
+			],
+			[
+				"math",
+				"C:\\xampp\\htdocs\\fire\\server\\math.php"
+			],
+			[
+				"psot",
+				"C:\\xampp\\htdocs\\fire\\postGameData.php"
+			],
+			[
+				"shi",
+				"C:\\xampp\\htdocs\\fire\\server\\ship.php"
+			],
+			[
+				"ship",
+				"C:\\xampp\\htdocs\\fire\\server\\ship.php"
+			],
+			[
+				"sinl",
+				"C:\\xampp\\htdocs\\fire\\server\\systems\\single.php"
+			],
+			[
+				"non",
+				"C:\\xampp\\htdocs\\fire\\server\\systems\\nonweapon.php"
+			],
+			[
+				"nonw",
+				"C:\\xampp\\htdocs\\fire\\server\\systems\\nonweapon.php"
+			],
+			[
+				"sjh",
+				"C:\\xampp\\htdocs\\fire\\shipclasses.js"
+			],
+			[
+				"vor",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\vorchar.php"
+			],
+			[
+				"tet",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\tethys.php"
+			],
+			[
+				"hav",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\haven.php"
+			],
+			[
+				"herm",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\hermes.php"
+			],
+			[
+				"shoko",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\shokos.php"
+			],
+			[
+				"teth",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\tethys.php"
+			],
+			[
+				"dag",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\dagkar.php"
+			],
+			[
+				"singl",
+				"C:\\xampp\\htdocs\\fire\\server\\systems\\single.php"
+			],
+			[
+				"single",
+				"C:\\xampp\\htdocs\\fire\\server\\systems\\single.php"
+			],
+			[
+				"dmgc",
+				"C:\\xampp\\htdocs\\fire\\server\\dmgcalc.php"
+			],
+			[
+				"then",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\thentus.php"
+			],
+			[
+				"alt",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\altarian.php"
+			],
+			[
+				"squad",
+				"C:\\xampp\\htdocs\\fire\\server\\squaddie.php"
+			],
+			[
+				"sag",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\saggitarius.php"
+			],
+			[
+				"dmg",
+				"C:\\xampp\\htdocs\\fire\\server\\dmgcalc.php"
+			],
+			[
+				"squ",
+				"C:\\xampp\\htdocs\\fire\\server\\squaddie.php"
+			],
+			[
+				"gae.js",
+				"C:\\xampp\\htdocs\\fire\\game.js"
+			],
+			[
+				"dark",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\darkner.php"
+			],
+			[
+				"pos",
+				"C:\\xampp\\htdocs\\fire\\postGameData.php"
+			],
+			[
+				"get",
+				"C:\\xampp\\htdocs\\fire\\getGameData.php"
+			],
+			[
+				"sqad",
+				"C:\\xampp\\htdocs\\fire\\server\\squaddie.php"
+			],
+			[
+				"lb",
+				"C:\\xampp\\htdocs\\fire\\lobby.php"
+			],
+			[
+				"nop",
+				"C:\\xampp\\htdocs\\fire\\server\\systems\\nonweapon.php"
+			],
+			[
+				"auto",
+				"C:\\xampp\\htdocs\\fire\\autoload.php"
+			],
+			[
+				"pul",
+				"C:\\xampp\\htdocs\\fire\\server\\systems\\weapons\\pulse.php"
+			],
+			[
+				"pu",
+				"C:\\xampp\\htdocs\\fire\\server\\systems\\weapons\\pulse.php"
+			],
+			[
+				"las",
+				"C:\\xampp\\htdocs\\fire\\server\\systems\\weapons\\laser.php"
+			],
+			[
+				"mag",
+				"C:\\xampp\\htdocs\\fire\\server\\manager.php"
+			],
+			[
+				"area",
+				"C:\\xampp\\htdocs\\fire\\server\\systems\\weapons\\area.php"
+			],
+			[
+				"fi",
+				"C:\\xampp\\htdocs\\fire\\server\\fighter.php"
+			],
+			[
+				"rong",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\rongoth.php"
+			],
+			[
+				"romg",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\mograth.php"
+			],
+			[
+				"pulse",
+				"C:\\xampp\\htdocs\\fire\\server\\systems\\weapons\\pulse.php"
+			],
+			[
+				"ammmo",
+				"C:\\xampp\\htdocs\\fire\\server\\systems\\weapons\\ammo.php"
+			],
+			[
+				"kut",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\kutai.php"
+			],
+			[
+				"sal",
+				"C:\\xampp\\htdocs\\fire\\salvo.js"
+			],
+			[
+				"au",
+				"C:\\xampp\\htdocs\\fire\\autoload.php"
+			],
+			[
+				"post",
+				"C:\\xampp\\htdocs\\fire\\postGameData.php"
+			],
+			[
+				"ammo",
+				"C:\\xampp\\htdocs\\fire\\server\\systems\\weapons\\ammo.php"
+			],
+			[
+				"am",
+				"C:\\xampp\\htdocs\\fire\\server\\systems\\weapons\\ammo.php"
+			],
+			[
+				"fligh",
+				"C:\\xampp\\htdocs\\fire\\flights.js"
+			],
+			[
+				"shokov",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\shokov.php"
+			],
+			[
+				"sko",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\shokov.php"
+			],
+			[
+				"thent",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\thentus.php"
+			],
+			[
+				"game.",
+				"C:\\xampp\\htdocs\\fire\\game.js"
+			],
+			[
+				"g",
+				"C:\\xampp\\htdocs\\fire\\game.php"
+			],
+			[
+				"class",
+				"C:\\xampp\\htdocs\\fire\\classes.js"
+			],
+			[
+				"part",
+				"C:\\xampp\\htdocs\\fire\\server\\systems\\weapons\\particle.php"
+			],
+			[
+				"game.j",
+				"C:\\xampp\\htdocs\\fire\\game.js"
+			],
+			[
+				"shared",
+				"C:\\xampp\\htdocs\\fire\\shared.js"
+			],
+			[
+				"ost",
+				"C:\\xampp\\htdocs\\fire\\postGameData.php"
+			],
+			[
+				"depl",
+				"C:\\xampp\\htdocs\\fire\\server\\systems\\weapons\\plasma.php"
+			],
+			[
+				"ajax",
+				"C:\\xampp\\htdocs\\fire\\ajax.js"
+			],
+			[
+				"tin",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\tinashi.php"
+			],
+			[
+				"tig",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\tigara.php"
+			],
+			[
+				"dbm",
+				"C:\\xampp\\htdocs\\fire\\server\\dbManager.php"
+			],
+			[
+				"po",
+				"C:\\xampp\\htdocs\\fire\\postGameData.php"
+			],
+			[
+				"tiga",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\tigara.php"
+			],
+			[
+				"tigara",
+				"C:\\xampp\\htdocs\\fire\\server\\ships\\tigara.php"
+			],
+			[
+				"sy",
+				"C:\\xampp\\htdocs\\fire\\systems.js"
+			],
+			[
+				"fli",
+				"C:\\xampp\\htdocs\\fire\\flights.js"
+			],
+			[
+				"gae.",
+				"C:\\xampp\\htdocs\\fire\\game.js"
+			],
+			[
+				"salv",
+				"C:\\xampp\\htdocs\\fire\\salvo.js"
+			],
+			[
+				"scri",
+				"C:\\xampp\\htdocs\\fire\\script.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 35.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 121.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

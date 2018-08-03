@@ -1,55 +1,63 @@
 <?php
-//include(dirname(__FILE__) . "/global.php");
-//session_start();
 
+	ini_set('display_errors', 1); 
+	error_reporting(E_ALL);
+	
+	include(dirname(__FILE__) . "/autoload.php");
+	session_start();
+	
+    Debug::open();
+   // Debug::log("bug");
 
-if ($_SERVER["REQUEST_METHOD"] == "POST"){
-	$name = $_POST["name"];
-	$mail = $_POST["mail"];
-	$plz = $_POST["plz"];
-	$ort = $_POST["ort"];
-	$comment = $_POST["comment"];
-	$pass = $_POST["pass"];
-	
-	echo "name ".$name."</br>";
-	echo "mail ".$mail."</br>";
-	echo "plz ". $plz.", len: ".strlen($plz)."</br>";
-	echo "ort ". $ort."</br>";
-	echo "comment ".$comment."</br>";
-	echo "pass ".$pass."</br></br></br>";
-	
-	$valid = 1;
-	
-	if (strlen($name) < 4){
-		echo "Ungültiger Nutzername</br>";
-		$valid = 0;
-	}
-	
-	if (strlen($mail) < 4){
-		echo "Ungültige Email-Adresse</br>";
-		$valid = 0;
-	}
-	
-	if (strlen($plz < 5) || $plz < 0 || $pls > 99999){
-		echo "Ungültige PLZ</br>";
-		$valid = 0;
-	}
-	
-	if (strlen($ort) < 3){
-		echo "Ungültigee Ort</br>";
-		$valid = 0;
-	}
-	
-	if (strlen($pass) < 5){
-		echo "Ungültige Passwort</br>";
-		$valid = 0;
-	}
-	
-	
-	if ($valid){
-		echo "valid!";
-	}
-	
+	if ($_SERVER["REQUEST_METHOD"] == "POST"){
+		$name = $_POST["name"];
+		$mail = $_POST["mail"];
+		$plz = $_POST["plz"];
+		$ort = $_POST["ort"];
+		$comment = $_POST["comment"];
+		$pass = $_POST["pass"];
+		
+		echo "name ".$name."</br>";
+		echo "mail ".$mail."</br>";
+		echo "plz ". $plz.", len: ".strlen($plz)."</br>";
+		echo "ort ". $ort."</br>";
+		echo "comment ".$comment."</br>";
+		echo "pass ".$pass."</br></br></br>";
+		
+		$valid = 1;
+		
+		if (strlen($name) < 4){
+			echo "Ungültiger Nutzername</br>";
+			$valid = 0;
+		}
+		
+		if (strlen($mail) < 4){
+			echo "Ungültige Email-Adresse</br>";
+			$valid = 0;
+		}
+		
+		if (strlen($plz < 5) || $plz < 0 || $plz > 99999){
+			echo "Ungültige PLZ</br>";
+			$valid = 0;
+		}
+		
+		if (strlen($ort) < 3){
+			echo "Ungültige Ort</br>";
+			$valid = 0;
+		}
+		
+		if (strlen($pass) < 5){
+			echo "Ungültige Passwort</br>";
+			$valid = 0;
+		}
+		
+		
+		if (!$valid){
+			echo "valid!";
+
+			echo DBManager::app()->insertSeek($name, $mail, $plz, $ort, $comment, $pass);
+		}
+		
 	
 	
 } else echo "no post";
